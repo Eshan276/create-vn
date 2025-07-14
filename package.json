@@ -2,7 +2,7 @@
   "name": "create-vn",
   "version": "1.0.0",
   "bin": {
-    "create-vn": "index.js"
+    "create-vn": "./bin/index.js"
   },
   "dependencies": {
     "execa": "^8.0.1",
