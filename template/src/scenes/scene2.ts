@@ -2,7 +2,7 @@ import Ram from "../characters/Ram";
 import { waitClick } from "easyvn";
 
 export const metadata = {
-  background: "school_day.jpg", // or another bg like "classroom.jpg"
+  background: "school_day.jpg", 
 };
 
 export default async function scene2() {

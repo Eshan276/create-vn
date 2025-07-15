@@ -40,11 +40,11 @@ body {
 
 #choices {
   position: fixed;
-  bottom: 8rem; /* Adjust this value to move it up/down from the dialogue box */
+  bottom: 8rem; 
   width: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center; /* Center buttons horizontally */
+  align-items: center; 
   gap: 0.5rem;
   z-index: 2;
 }

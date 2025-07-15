@@ -23,7 +23,7 @@ export default async function scene1() {
     ["Stay here", () => goto("#stay")],
   ]);
 
-  // ❗ This will only run if user picked "Stay here"
+  
   Ram.talk("You stayed! Let's continue.");
   await waitClick();
 }
