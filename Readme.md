@@ -1,6 +1,6 @@
 # 📖 create-vn
 
-A CLI tool to quickly scaffold visual novel projects powered by [easyvn](https://github.com/easyvn/easyvn).
+A CLI tool to quickly scaffold visual novel projects powered by [easyvn](https://github.com/Eshan276/easyvn).
 
 ---
 
