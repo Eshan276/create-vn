@@ -1,6 +1,7 @@
 {
   "name": "create-vn",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "Create a new visual novel project powered by easyvn",
   "bin": {
     "create-vn": "./bin/index.js"
   },
